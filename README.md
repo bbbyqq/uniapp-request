@@ -1,1 +1,1 @@
-# uniapp-request
+# 统一封装uni.request
