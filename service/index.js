@@ -1,4 +1,4 @@
-const baseUrl = 'http://8.142.152.84:8049/'  // 此处填写后端url
+const baseUrl = 'xxx'  // 此处填写后端url
 	
 const http = (params) => {
   return new Promise((resolve, reject) => {
